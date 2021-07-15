@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c"
+    },
+    "git.ignoreLimitWarning": true,
+    "42norminette.trace.server": "messages"
+}
